@@ -74,7 +74,7 @@ uvicorn src.vector_search.main:app --reload
 
 ### Using Docker
 ```bash
-docker-compose up --build
+docker compose up --build
 ```
 
 ## API Endpoints
