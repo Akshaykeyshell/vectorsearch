@@ -26,10 +26,9 @@ A FastAPI-based document search service using Redis Vector Search and Gemini AI 
 
 ## Installation
 
-# no need if you'v folder
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Akshaykeyshell/vectorsearch.git
 cd vector-search
 ```
 
